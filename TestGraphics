@@ -11,7 +11,7 @@ public static void main(String[] main){
 StdDraw.circle(circlesx,circley,circleradius);
 //StdDraw.ellipse(0.01,0.01,0.04,0.03);
 StdDraw.filledSquare(xcord,ycord,radius);    
-StdDraw.picture(0.4,0.5,"");
+StdDraw.picture(0.4,0.5,"image.png");
 StdDraw.show(50);    
     
    
